@@ -7,12 +7,12 @@
 - [x] Aprenda oque são estruturas de dados e algorismos.
 - [x] Introdução ao GIT/GITHUB.
 - [x] Criando seu primeiro repositorio.
-- [ ] Introdução ao ecosistema e documentação Java.
-- [ ] Dominando IDEs Java.
-- [ ] Variáveis, tipos de dados e operadores matematicos em Java.
-- [ ] Entendendo métodos Java.
-- [ ] Lógica condicional e controle de fluxos em Java.
-- [ ] Estruturas de repetição e arrays em Java.
-- [ ] Desafios iniciais - GFT Start 4 Java.
-- [ ] Programação otientada a objetos.
-- [ ] Desafios básicos - GFT Start 4 Java.
+- [x] Introdução ao ecosistema e documentação Java.
+- [x] Dominando IDEs Java.
+- [x] Variáveis, tipos de dados e operadores matematicos em Java.
+- [x] Entendendo métodos Java.
+- [x] Lógica condicional e controle de fluxos em Java.
+- [x] Estruturas de repetição e arrays em Java.
+- [x] Desafios iniciais - GFT Start 4 Java.
+- [x] Programação otientada a objetos.
+- [x] Desafios básicos - GFT Start 4 Java.
